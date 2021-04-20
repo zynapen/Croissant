@@ -1,0 +1,20 @@
+:root {
+    --primary-color: #85603f;
+    --secondary-color: #9e7540;
+    --accent-color: #bd9354;
+    --accent2-color: #e3d18a;
+  }
+
+  body {
+    padding: 60px;
+  }
+
+  h1 {
+    color: var(--primary-color); 
+  }
+
+  h2,
+  h3 {
+    color: var(--secondary-color);
+  }
+
